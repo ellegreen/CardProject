@@ -24,11 +24,11 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
-        android:textSize="36sp"
+        android:textSize="40sp"
         android:padding="20dp"
         android:fontFamily="sans-serif-medium"
         android:textColor="@android:color/white"
-        android:text="Come play Volleyball at the Ymca now!" />
+        android:text="Come Play Volleyball At The YMCA Now!" />
     <TextView
         android:id="@+id/from_textview"
         android:layout_width="wrap_content"
